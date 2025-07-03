@@ -7,11 +7,7 @@ public class Main {
         N = sc.nextInt();
 
         for (i=1; i<10; i++) {
-            System.out.print(N);
-            System.out.print(" * ");
-            System.out.print(i);
-            System.out.print(" = ");
-            System.out.println(N*i);
+            System.out.printf("%d * %d = %d\n", N, i, N * i);
         }
     }
 }
