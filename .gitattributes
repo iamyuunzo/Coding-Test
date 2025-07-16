@@ -1,0 +1,7 @@
+# Java
+*.java linguist-detectable=true
+*.java linguist-language=Java
+
+# SQL
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
